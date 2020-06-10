@@ -1,2 +1,3 @@
 # javaUtil
 自己集成的小工具与自己写的小jar包还有自己写的小项目
+CurrencyService 通用service  自己集成的小工具依赖通用mapper
