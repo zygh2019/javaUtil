@@ -1,7 +1,7 @@
 package com.liu.currencyService;
 /**
  * 可进行扩展
- * @author zkr
+ * @author liushengbin
  *
  * @param <E>
  * @param <PK>
